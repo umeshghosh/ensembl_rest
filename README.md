@@ -1,3 +1,5 @@
+Download information on gene orthologs using Ensembl REST API
+
 # ensembl_rest
 download information on orthologs
 
